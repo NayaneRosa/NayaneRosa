@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayaneRosa
 - 👀 I’m interested Tecnologias 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ GitHub em Construção  
 - 📫 How to reach me nayaneksr95@gmail.com
 
